@@ -1,4 +1,4 @@
-import week from "./src/js/diasDaSemana.js";
+import week from "./docs/js/diasDaSemana.js";
 window.onload = getMyLocation;
 
 
